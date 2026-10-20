@@ -9,7 +9,7 @@ version: v0.1.0-state-of-the-art-1
 
 Fifteen entries tracing how the cartography of sodium pentobarbital in Mexico was built: from reading the grant to the first versioned state of the art.
 
-**Note on method.** These entries were reconstructed on 20 October 2026 from working notes and conversations. The work took place over five days (7, 16, 17, 19 and 20 October 2026); each entry carries the date of the step it describes, so several entries share a date.
+**Note on method.** These entries were reconstructed on 20 October 2026 from working notes and early pre-fieldwork. The work took place over five days (7, 16, 17, 19 and 20 October 2026); each entry carries the date of the step it describes, so several entries share a date.
 
 ## Entries
 
