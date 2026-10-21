@@ -29,3 +29,4 @@ Sixteen entries tracing how the cartography of sodium pentobarbital in Mexico wa
 - [[14-2026-10-20-not-every-animal-gets-pentobarbital|14. Not every animal gets pentobarbital]] (2026-10-20)
 - [[15-2026-10-20-reading-the-post-against-the-map|15. Reading the post against the map]] (2026-10-20)
 - [[16-2026-10-20-expanding-the-map-the-ontological-atlas-of-pentobarbital|16. Expanding the map: the Ontological Atlas of Pentobarbital]] (2026-10-20)
+- [[17-2026-10-21-pentobarbital-drawer-by-drawer17. Pentobarbital, drawer by drawer]] (2026-10-21)
