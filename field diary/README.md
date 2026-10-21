@@ -7,9 +7,9 @@ version: v0.1.0-state-of-the-art-1
 
 # Field diary: Building the Specimen
 
-Fifteen entries tracing how the cartography of sodium pentobarbital in Mexico was built: from reading the grant to the first versioned state of the art.
+Sixteen entries tracing how the cartography of sodium pentobarbital in Mexico was built: from reading the grant to the first versioned state of the art.
 
-**Note on method.** These entries were reconstructed on 20 October 2026 from working notes and early pre-fieldwork. The work took place over five days (7, 16, 17, 19 and 20 October 2026); each entry carries the date of the step it describes, so several entries share a date.
+**Note on method.** These entries were reconstructed in October 2026 from working notes and early pre-fieldwork. The work took place over five days (7, 16, 17, 19, and 21 October 2026); each entry carries the date of the step it describes, so several entries share a date.
 
 ## Entries
 
@@ -28,3 +28,4 @@ Fifteen entries tracing how the cartography of sodium pentobarbital in Mexico wa
 - [[13-2026-10-20-choosing-where-to-stand|13. Choosing where to stand]] (2026-10-20)
 - [[14-2026-10-20-not-every-animal-gets-pentobarbital|14. Not every animal gets pentobarbital]] (2026-10-20)
 - [[15-2026-10-20-reading-the-post-against-the-map|15. Reading the post against the map]] (2026-10-20)
+- [[16-2026-10-20-expanding-the-map-the-ontological-atlas-of-pentobarbital|16. Expanding the map: the Ontological Atlas of Pentobarbital]] (2026-10-20)
