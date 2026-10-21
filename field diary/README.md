@@ -11,6 +11,8 @@ Sixteen entries tracing how the cartography of sodium pentobarbital in Mexico wa
 
 **Note on method.** These entries were reconstructed in October 2026 from working notes and early pre-fieldwork. The work took place over five days (7, 16, 17, 19, and 21 October 2026); each entry carries the date of the step it describes, so several entries share a date.
 
+### This whole field diary is a thinking device, not a work plan. This is a tentative phasing of the Mexico subproject, imagined over four years. The first thing I'd do is redo it with the PI and the team. Authorship, venues and timing of every output are to be agreed with the PI.
+
 ## Entries
 
 - [[01-2026-10-07-reading-the-grant|01. Reading the grant]] (2026-10-07)
