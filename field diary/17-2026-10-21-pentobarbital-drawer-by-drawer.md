@@ -38,9 +38,9 @@ Ethics approval, data management plan, and the written rule for what never becom
 
 #### Output
 *Authorship, venues and timing to be agreed with the PI.* &nbsp;
-Output 1 · The Pharmakon Multiple &nbsp;
-*Theoretical, desk-based. Pentobarbital as one substance enacted as medicine, regulated object, means of death and object of hope, and who decides which version counts. Built from literature, regulation and the existing cartography.* &nbsp;
-**Possible venues:** Medical Anthropology Quarterly; Social Studies of Science.
+###### Output 1 · The Pharmakon Multiple
+- *Theoretical, desk-based. Pentobarbital as one substance enacted as medicine, regulated object, means of death and object of hope, and who decides which version counts. Built from literature, regulation and the existing cartography.*
+- **Possible venues:** Medical Anthropology Quarterly; Social Studies of Science.
 
 ---
 &nbsp;
@@ -65,9 +65,9 @@ Informed consent, anonymity for practitioners, and attention to owners' grief. N
 
 #### Output
 *Authorship, venues and timing to be agreed with the PI.* &nbsp;
-Output 2 · An Atlas for an Unstable Object &nbsp;
-*Method paper on the Ontological Atlas: the six dimensions, the two-layer publication filter, and what an atlas shows that a network map hides. Written once v1.0 has field entries.* &nbsp;
-**Possible venues:** Visual Anthropology Review; Multimodality & Society (short version in Multimodal Studio).
+###### Output 2 · An Atlas for an Unstable Object
+- *Method paper on the Ontological Atlas: the six dimensions, the two-layer publication filter, and what an atlas shows that a network map hides. Written once v1.0 has field entries.* &nbsp;
+- **Possible venues:** Visual Anthropology Review; Multimodality & Society (short version in Multimodal Studio).
 
 ---
 &nbsp;
@@ -93,9 +93,9 @@ The strictest year. No recruitment of people currently seeking the drug outside 
 
 #### Output
 *Authorship, venues and timing to be agreed with the PI.* &nbsp;
-Output 3 · Licensed Death &nbsp;
-*Ethnography of veterinary euthanasia in Mexico: routine, legitimate killing and how it shapes what the drug is everywhere else. The hinge of the subproject.* &nbsp;
-**Possible venues:** Medical Anthropology; Environmental Humanities.
+###### Output 3 · Licensed Death
+- *Ethnography of veterinary euthanasia in Mexico: routine, legitimate killing and how it shapes what the drug is everywhere else. The hinge of the subproject.* &nbsp;
+- **Possible venues:** Medical Anthropology; Environmental Humanities.
 
 ---
 &nbsp;
@@ -120,9 +120,9 @@ Only public records and expert testimony. No dosing information is reproduced in
 
 #### Output
 *Authorship, venues and timing to be agreed with the PI.* &nbsp;
-Output 4 · Legible Death &nbsp;
-*How documents make the drug visible or invisible, and to whom. Built on the documentary corpus from the paper year (COFEPRIS, the Group II schedule, registrations), then tested at the border, where customs declarations, seizures and indictments demand that the drug be legible.* &nbsp;
-**Possible venue:** Science, Technology, & Human Values.
+###### Output 4 · Legible Death &nbsp;
+- *How documents make the drug visible or invisible, and to whom. Built on the documentary corpus from the paper year (COFEPRIS, the Group II schedule, registrations), then tested at the border, where customs declarations, seizures and indictments demand that the drug be legible.* &nbsp;
+- **Possible venue:** Science, Technology, & Human Values.
 
 ---
 ### Further outputs
@@ -136,7 +136,7 @@ Output 4 · Legible Death &nbsp;
 **Possible venues:** Cultural Anthropology; Medicine Anthropology Theory 
 
 ---
-> A thinking device, not a work plan. The first thing I'd do is redo it with the PI and the team.
+> This is a thinking device, not a work plan.
 
 ---
 ← [[16-2026-10-20-expanding-the-map-the-ontological-atlas-of-pentobarbital|16. Expanding the map: the Ontological Atlas of Pentobarbital]] (2026-10-20)
