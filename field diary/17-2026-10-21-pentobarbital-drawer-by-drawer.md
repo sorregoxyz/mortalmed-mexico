@@ -5,13 +5,15 @@ date: 2026-10-21
 project: MORTALMED, Mexico subproject
 artifact: Building the Specimen
 version: v0.1.0-state-of-the-art-1
-tags: [job description, private tentative working structure, solo-authored papers, ontological atlas]
+tags: [job description, tentative phasing, thinking device, ontological atlas]
 reconstructed: false
 ---
 
 # 17. Pentobarbital, drawer by drawer
 
-This is a tentative and initial working proposal that can be adjusted as much as the project requires that. It has been imagined as a four-year research plan. Each year puts one life of the drug in focus and builds the atlas entries for it. That life is usually written up the following year, once the material has settled. Contested life is not a year of its own. It runs through all four as the same question in a new setting: who decides which version counts here?
+> **A thinking device, not a work plan.** This is a tentative phasing of the Mexico subproject, imagined over four years. The first thing I'd do is redo it with the PI and the team. Authorship, venues and timing of every output are to be agreed with the PI.
+
+The phasing is imagined over four years. Each year puts one life of the drug in focus and builds the atlas entries for it. That life is usually written up the following year, once the material has settled. Contested life is not a year of its own. It runs through all four as the same question in a new setting: who decides which version counts here?
 
 ---
 &nbsp;
@@ -35,9 +37,10 @@ A0 fixes the entry template and the two-layer filter. A1 fills the documentary l
 Ethics approval, data management plan, and the written rule for what never becomes public. The autumn scoping visit tests access through exploratory conversations and does not count as data collection.
 
 #### Output
-P1 The Pharmakon Multiple &nbsp;
+*Authorship, venues and timing to be agreed with the PI.* &nbsp;
+Output 1 · The Pharmakon Multiple &nbsp;
 *Theoretical, desk-based. Pentobarbital as one substance enacted as medicine, regulated object, means of death and object of hope, and who decides which version counts. Built from literature, regulation and the existing cartography.* &nbsp;
-**Targets:** Medical Anthropology Quarterly; Social Studies of Science.
+**Possible venues:** Medical Anthropology Quarterly; Social Studies of Science.
 
 ---
 &nbsp;
@@ -61,18 +64,20 @@ A2: one entry per encounter, written within 48 hours while it is fresh. Intervie
 Informed consent, anonymity for practitioners, and attention to owners' grief. Nothing records how the drug might be diverted from the clinic.
 
 #### Output
-P2 An Atlas for an Unstable Object &nbsp;
+*Authorship, venues and timing to be agreed with the PI.* &nbsp;
+Output 2 · An Atlas for an Unstable Object &nbsp;
 *Method paper on the Ontological Atlas: the six dimensions, the two-layer publication filter, and what an atlas shows that a network map hides. Written once v1.0 has field entries.* &nbsp;
-**Targets:** Visual Anthropology Review; Multimodality & Society (short version in Multimodal Studio).
+**Possible venues:** Visual Anthropology Review; Multimodality & Society (short version in Multimodal Studio).
 
 ---
 &nbsp;
 ### Year three - Transnational life
 ## The drug at the border
+*If the third site is Tijuana. If the team chooses another site, the year keeps its question and changes its ground.*
 > What happens to the drug's identity as it crosses, and whose law does it obey?
 
 #### Rationale
-Once licensed normality is understood, the same product can be seen turning into an object of hope, fear and enforcement as it moves. The border is where the paper life and the clinic life are tested together, which is why P4 belongs here. It is also where the Mexico subproject meets the project's US and Swiss sites, so it is the natural moment for comparison. Fieldwork is shorter because the terrain is more sensitive and the focus is institutional.
+Once licensed normality is understood, the same product can be seen turning into an object of hope, fear and enforcement as it moves. The border is where the paper life and the clinic life are tested together, which is why the work on legibility starts here and is written up the following year. It is also where the Mexico subproject meets the project's US and Swiss sites, so it is the natural moment for comparison. Fieldwork is shorter because the terrain is more sensitive and the focus is institutional.
 
 #### Methods
 - Institutional ethnography. Interviews with border-city vets, regulators, lawyers, legal scholars, journalists and advocacy organisations. Observation of public border infrastructure.
@@ -87,9 +92,10 @@ A3 adds border entries and builds the analytic layer: friction cases where the p
 The strictest year. No recruitment of people currently seeking the drug outside an agreed team protocol with safeguarding and signposting to support. Nothing that works as a route map is ever recorded in public form.
 
 #### Output
-P3 Licensed Death &nbsp;
+*Authorship, venues and timing to be agreed with the PI.* &nbsp;
+Output 3 · Licensed Death &nbsp;
 *Ethnography of veterinary euthanasia in Mexico: routine, legitimate killing and how it shapes what the drug is everywhere else. The hinge of the subproject.* &nbsp;
-**Targets:** Medical Anthropology; Environmental Humanities.
+**Possible venues:** Medical Anthropology; Environmental Humanities.
 
 ---
 &nbsp;
@@ -98,13 +104,13 @@ P3 Licensed Death &nbsp;
 > How is the drug's action on bodies made knowable, and what counts as evidence of it?
 
 #### Rationale
-The molecule comes last on purpose. After three years of other lives, it reads as enacted too, by assays, monographs and autopsies, and not as the real drug underneath. The material life is also where the subproject connects most directly to the team's sites: toxicology in contested executions, dosing protocols in assisted dying. That makes it the right year for synthesis.
+The molecule comes last on purpose. After three years of other lives, it reads as enacted too, by assays, monographs and autopsies, and not as the real drug underneath. The material life is also where the subproject connects most directly to the team's sites: toxicology in contested executions, dosing protocols in assisted dying. That makes it the year when the Mexico material can be most useful to the team's comparative work.
 
 #### Methods
 - Reading the molecule's documents. Pharmacopoeias, product monographs, veterinary residue studies, and forensic and toxicology reports in public court records.
 - Expert interviews. Pharmacologists, toxicologists, forensic specialists and veterinary pathologists, during the short return visit.
 - Specimenography. A cabinet of the drug's material forms (packaging, labels, residues, reports), assembled from the collected fragments.
-- Collective synthesis. Cross-reading the atlas with the team.
+- Contribution to the team's comparative work. Cross-reading the atlas with the team, if the PI finds it useful.
 
 #### Atlas in Practice
 A4 adds material entries, then the public release with a closing essay on the material life. A5 deposits the archive with a DOI and leaves documentation so the team can keep using it.
@@ -113,21 +119,24 @@ A4 adds material entries, then the public release with a closing essay on the ma
 Only public records and expert testimony. No dosing information is reproduced in the public layer.
 
 #### Output
-P4 Legible Death &nbsp;
+*Authorship, venues and timing to be agreed with the PI.* &nbsp;
+Output 4 · Legible Death &nbsp;
 *How documents make the drug visible or invisible, and to whom. Built on the documentary corpus from the paper year (COFEPRIS, the Group II schedule, registrations), then tested at the border, where customs declarations, seizures and indictments demand that the drug be legible.* &nbsp;
-**Target:** Science, Technology, & Human Values;
+**Possible venue:** Science, Technology, & Human Values.
 
 ---
-### Buffer papers
-> no idea where to put them yet 
+### Further outputs
+> Not yet placed in the sequence. Authorship, venues and timing to be agreed with the PI.
 &nbsp;
-#### Temporary list
-- PB1 Las vidas veterinarias del pentobarbital &nbsp;
-*Spanish-language article returning findings to Mexican and Latin American readers. Shorter, and useful for the Spanish and Catalan accreditation record.* &nbsp;
-**Targets:** Desacatos; Nueva Antropología 
-- PB2 Desired Death at the Border &nbsp;
+- Further output A · Las vidas veterinarias del pentobarbital &nbsp;
+*Spanish-language article returning findings to Mexican and Latin American readers. Shorter, and written for readers in the field where the research takes place.* &nbsp;
+**Possible venues:** Desacatos; Nueva Antropología 
+- Further output B · Desired Death at the Border &nbsp;
 *Hope, rumour and transnational demand around the third site. Kept at the level of discourse, regulation and enforcement, never acquisition routes.* &nbsp;
-**Targets:** Cultural Anthropology; Medicine Anthropology Theory 
+**Possible venues:** Cultural Anthropology; Medicine Anthropology Theory 
+
+---
+> A thinking device, not a work plan. The first thing I'd do is redo it with the PI and the team.
 
 ---
 ← [[16-2026-10-20-expanding-the-map-the-ontological-atlas-of-pentobarbital|16. Expanding the map: the Ontological Atlas of Pentobarbital]] (2026-10-20)
