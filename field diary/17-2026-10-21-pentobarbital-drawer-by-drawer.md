@@ -120,8 +120,9 @@ P4 Legible Death &nbsp;
 ---
 &nbsp;
 ### Buffer papers
-> no idea where to put them yet
+> no idea where to put them yet 
 &nbsp;
+#### Temporary list
 PB1 Las vidas veterinarias del pentobarbital &nbsp;
 *Spanish-language article returning findings to Mexican and Latin American readers. Shorter, and useful for the Spanish and Catalan accreditation record.* &nbsp;
 **Targets:** Desacatos; Nueva Antropología &nbsp;
