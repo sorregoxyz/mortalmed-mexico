@@ -118,15 +118,14 @@ P4 Legible Death &nbsp;
 **Target:** Science, Technology, & Human Values;
 
 ---
-&nbsp;
 ### Buffer papers
 > no idea where to put them yet 
 &nbsp;
 #### Temporary list
-PB1 Las vidas veterinarias del pentobarbital &nbsp;
+- PB1 Las vidas veterinarias del pentobarbital &nbsp;
 *Spanish-language article returning findings to Mexican and Latin American readers. Shorter, and useful for the Spanish and Catalan accreditation record.* &nbsp;
-**Targets:** Desacatos; Nueva Antropología &nbsp;
-PB2 Desired Death at the Border &nbsp;
+**Targets:** Desacatos; Nueva Antropología 
+- PB2 Desired Death at the Border &nbsp;
 *Hope, rumour and transnational demand around the third site. Kept at the level of discourse, regulation and enforcement, never acquisition routes.* &nbsp;
 **Targets:** Cultural Anthropology; Medicine Anthropology Theory 
 
