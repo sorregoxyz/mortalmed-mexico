@@ -52,4 +52,4 @@ A hypothesis to offer, not a plan. The shape of any Spanish fieldsite is the PI'
 - El Español, 25 June 2026: https://www.elespanol.com/reportajes/20260625/mercado-negro-muerte-digna-espana-dosis-letales-euros-caer-sueno-profundo-no-despertar/1003744291528_0.html
 
 ---
-← [[01-2026-11-05-compounded|Compounded]] · [[README|Index]]
+← [[01-2026-11-05-compounded|Compounded]] · [[README|Index]] · [[03-2026-11-07-thirty-kilometres|Thirty kilometres]] →
