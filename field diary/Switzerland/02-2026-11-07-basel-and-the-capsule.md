@@ -46,4 +46,4 @@ For fieldwork: if Basel is the site, Pegasos is the most visible and contested a
 - Swissinfo, activist released: https://www.swissinfo.ch/eng/demographics/swiss-authorities-release-right-to-die-activist-in-sarco-suicide-capsule-case/88464183
 
 ---
-← [[01-2026-11-07-the-prescription-is-the-door|The prescription is the door]] · [[README|Index]]
+← [[01-2026-11-07-the-prescription-is-the-door|The prescription is the door]] · [[README|Index]] · [[03-2026-11-07-who-may-write-it|Who may write it]] →
