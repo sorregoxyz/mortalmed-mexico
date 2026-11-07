@@ -52,4 +52,4 @@ The two-site design from entry 02 holds, but tilts: Barcelona as main site, wher
 - Betevé on the 2024 Catalan report: https://beteve.cat/societat/358-peticions-eutanasia-catalunya-2024-63-per-cent-mes-2023/
 
 ---
-← [[02-2026-11-05-what-the-vultures-eat|What the vultures eat]] · [[README|Index]]
+← [[02-2026-11-05-what-the-vultures-eat|What the vultures eat]] · [[README|Index]] · [[04-2026-11-07-between-approval-and-death|Between approval and death]] →

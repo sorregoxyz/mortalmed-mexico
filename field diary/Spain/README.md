@@ -20,3 +20,4 @@ Entries tracing a first desk exploration of sodium pentobarbital in Spain, opene
 - [[01-2026-11-05-compounded|01. Compounded]] (2026-11-05)
 - [[02-2026-11-05-what-the-vultures-eat|02. What the vultures eat]] (2026-11-05)
 - [[03-2026-11-07-thirty-kilometres|03. Thirty kilometres]] (2026-11-07)
+- [[04-2026-11-07-between-approval-and-death|04. Between approval and death]] (2026-11-07)
