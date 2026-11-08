@@ -56,4 +56,4 @@ And the field site matters: Basel-Landschaft is where Preisig worked and was pro
 - Federal Supreme Court, press release on 6B_1087/2021 (28 Jun 2023): https://bger.ch/files/live/sites/bger/files/pdf/de/6b_1087_2021_2023_06_28_T_d_11_55_50.pdf
 
 ---
-← [[02-2026-11-07-basel-and-the-capsule|Basel, and the capsule]] · [[README|Index]]
+← [[02-2026-11-07-basel-and-the-capsule|Basel, and the capsule]] · [[README|Index]] · [[04-2026-11-08-from-request-to-release|From request to release]] →

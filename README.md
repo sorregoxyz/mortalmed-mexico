@@ -19,7 +19,7 @@ MORTALMED (*Mortal Medicine: The Social Life of a Death-Inducing Pharmaceutical*
 | Site | Status here | The drug's life | Field diary |
 |---|---|---|---|
 | **Mexico** | State of the art, v0.1.0 (Oct 2026) | Circulation: veterinary markets, over the counter, across the border | [`field diary/Mexico`](field%20diary/Mexico/README.md) · 17 entries |
-| **Switzerland** | First exploration (Nov 2026) | Prescription: the narcotics regime as the door to assisted suicide | [`field diary/Switzerland`](field%20diary/Switzerland/README.md) · 3 entries |
+| **Switzerland** | First exploration (Nov 2026) | Prescription: the narcotics regime as the door to assisted suicide | [`field diary/Switzerland`](field%20diary/Switzerland/README.md) · 4 entries |
 | **Spain** | First exploration, possible fieldsite (Nov 2026) | Afterlife: compounded for humans, industrial for animals, persistent in carcasses, soil and water | [`field diary/Spain`](field%20diary/Spain/README.md) · 6 entries |
 
 MORTALMED's fourth context, lethal injection in the United States, appears here only through the literature and cases already in the data.
@@ -82,6 +82,6 @@ VS Code's Live Server also works (see Mexico entry 11 for why the page needs a f
 │   └── d3.min.js
 └── field diary/
     ├── Mexico/           # 17 entries + README
-    ├── Switzerland/      # 3 entries + README
+    ├── Switzerland/      # 4 entries + README
     └── Spain/            # 6 entries + README
 ```
