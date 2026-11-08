@@ -4,7 +4,9 @@
 
 This repository is called `mortalmed-mexico` because it began as preparation for MORTALMED's Mexico subproject. It now also holds early work on Switzerland and on a possible Spanish fieldsite. The name stays for now, so existing links keep working.
 
-Santiago Orrego · urban anthropologist and STS scholar · [sorregoxyz.github.io](https://sorregoxyz.github.io)
+Santiago Orrego · more-than-human anthropologist and STS scholar · [sorregoxyz.github.io](https://sorregoxyz.github.io)
+
+To access to the working specimen: https://sorregoxyz.github.io/mortalmed-mexico/index.html
 
 ## What this is
 
