@@ -19,3 +19,4 @@ Entries tracing a first desk exploration of sodium pentobarbital and assisted dy
 - [[02-2026-11-07-basel-and-the-capsule|02. Basel, and the capsule]] (2026-11-07)
 - [[03-2026-11-07-who-may-write-it|03. Who may write it]] (2026-11-07)
 - [[04-2026-11-08-from-request-to-release|04. From request to release]] (2026-11-08)
+- [[05-2026-11-08-who-accompanies|05. Who accompanies]] (2026-11-08)

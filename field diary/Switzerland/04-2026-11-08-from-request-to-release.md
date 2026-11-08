@@ -81,4 +81,4 @@ The Institute of Forensic Medicine in Basel is notified and may come to the scen
 - University of Zurich, forensic medicine and the extraordinary death (2018): https://www.merh.uzh.ch/dam/jcr:f0677f57-aa3c-4199-97f1-f17af2e2347b/MERH2018_web.pdf
 
 ---
-← [[03-2026-11-07-who-may-write-it|Who may write it]] · [[README|Index]]
+← [[03-2026-11-07-who-may-write-it|Who may write it]] · [[README|Index]] · [[05-2026-11-08-who-accompanies|Who accompanies]] →

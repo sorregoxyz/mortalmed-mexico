@@ -23,3 +23,7 @@ Entries tracing a first desk exploration of sodium pentobarbital in Spain, opene
 - [[04-2026-11-07-between-approval-and-death|04. Between approval and death]] (2026-11-07)
 - [[05-2026-11-08-what-it-leaves-behind|05. What it leaves behind]] (2026-11-08)
 - [[06-2026-11-08-the-slow-afterlife|06. The slow afterlife]] (2026-11-08)
+
+## Working documents
+
+- [[transparency-requests|Transparency requests (drafts)]] (2026-11-08)
