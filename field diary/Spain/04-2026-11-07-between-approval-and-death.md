@@ -57,4 +57,4 @@ The main thing: pentobarbital is almost absent from this picture. Most Spanish p
 - eldiario.es, Francesc Augé's father withdraws: https://www.eldiario.es/1_cd7a92
 
 ---
-← [[03-2026-11-07-thirty-kilometres|Thirty kilometres]] · [[README|Index]]
+← [[03-2026-11-07-thirty-kilometres|Thirty kilometres]] · [[README|Index]] · [[05-2026-11-08-what-it-leaves-behind|What it leaves behind]] →
