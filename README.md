@@ -30,7 +30,7 @@ MORTALMED's fourth context, lethal injection in the United States, appears here 
 
 ## How to read it
 
-- **The map** (`index.html`) is a force-directed graph of entries and relations, with a register of entries and the candidate sites. It currently covers **Mexico only**. Switzerland and Spain layers are planned, built from their field diaries.
+- **The maps** are force-directed graphs of entries and relations, with a register of entries and the field sites: one map per site, linked by a site menu. `index.html` covers **Mexico**; `switzerland.html` covers **Switzerland**. A Spain map and a small view of the connections between sites are planned.
 - **The field diaries** (`field diary/<site>/`) are dated entries, each with *What I did*, *What I found* or *What I noticed*, *Open questions* and *Traces* (sources). Each folder has its own README index. Links use `[[wiki-link]]` syntax, so they read best in Obsidian.
 
 ## Running the map
@@ -49,12 +49,13 @@ VS Code's Live Server also works (see Mexico entry 11 for why the page needs a f
 
 | File | Rows | Contents |
 |---|---|---|
-| `data/entries.csv` | 48 | Actors, documents, laws, cases and literature: `id, label, short, category, enactments, to_verify, description, verification_note, source, url` |
-| `data/relations.csv` | 96 | Links between entries, typed by `circulation` |
-| `data/sites.csv` | 3 | Candidate field sites, with reasons and considerations |
+| `data/entries.csv` | 48 (Mexico) | Actors, documents, laws, cases and literature: `id, label, short, category, enactments, to_verify, description, verification_note, source, url` |
+| `data/relations.csv` | 96 (Mexico) | Links between entries, typed by `circulation` |
+| `data/sites.csv` | 3 (Mexico) | Candidate field sites, with reasons and considerations |
 
 - **Categories:** `regulatory`, `clinical`, `advocacy`, `literature`.
 - **Enactments**, the cross-cutting lens filter: `licensed`, `legible`, `desired`, `material`, `contested`, plus `frame` for conceptual entries. An entry can carry several. Contested is not a separate life of the drug; it runs through all of them.
+- **Switzerland** uses the same model in `data/ch/`: 41 entries, 70 relations, 4 sites (Basel and Basel-Landschaft as the field site, Zurich and Solothurn as comparisons).
 - **Circulations:** `institutional`, `material`, `informational`, `scholarly`.
 - **Verification:** entries flagged `to_verify` carry a note on what still needs checking.
 
@@ -74,12 +75,14 @@ VS Code's Live Server also works (see Mexico entry 11 for why the page needs a f
 
 ```
 .
-├── index.html            # the map (Mexico layer)
+├── index.html            # Mexico map
+├── switzerland.html      # Switzerland map
 ├── data/
 │   ├── entries.csv
 │   ├── relations.csv
 │   ├── sites.csv
-│   └── d3.min.js
+│   ├── d3.min.js
+│   └── ch/               # Switzerland data (same columns)
 └── field diary/
     ├── Mexico/           # 17 entries + README
     ├── Switzerland/      # 5 entries + README

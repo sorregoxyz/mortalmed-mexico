@@ -258,12 +258,18 @@
   .site-status.lead { background: var(--ink); color: var(--surface); border-color: var(--ink); }
   .option.lead { border-top: 0; padding-top: 0; }
   .option.alt { opacity: 0.92; }
+  /* site navigation */
+  .sitenav { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; margin: 0 0 10px; }
+  .sitenav a { color: inherit; text-decoration: none; border-bottom: 1px solid var(--rule); padding-bottom: 1px; }
+  .sitenav a[aria-current="page"] { font-weight: 600; border-bottom-color: currentColor; }
+  .sitenav span { opacity: 0.55; }
   @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 </head>
 <body>
 <div class="wrap">
   <header class="masthead">
+    <nav class="sitenav" aria-label="Sites"><a href="index.html" aria-current="page">Mexico</a><a href="switzerland.html">Switzerland</a><span>Spain (in preparation)</span></nav>
     <div class="eyebrow">MORTALMED · Mexico subproject · working cartography</div>
     <h1>Building the Specimen: <em>the many lives of a lethal molecule</em></h1>
     <p class="lede">A seed map of how sodium pentobarbital is made into different things in Mexico: a veterinary instrument,
