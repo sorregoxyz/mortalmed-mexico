@@ -30,7 +30,7 @@ MORTALMED's fourth context, lethal injection in the United States, appears here 
 
 ## How to read it
 
-- **The maps** are force-directed graphs of entries and relations, with a register of entries and the field sites: one map per site, linked by a site menu. `index.html` covers **Mexico**; `switzerland.html` covers **Switzerland**. A Spain map and a small view of the connections between sites are planned.
+- **The maps** are force-directed graphs of entries and relations, with a register of entries and the field sites: one map per site, linked by a site menu. `index.html` covers **Mexico**, `switzerland.html` **Switzerland** and `spain.html` **Spain**. A small view of the connections between sites is planned.
 - **The field diaries** (`field diary/<site>/`) are dated entries, each with *What I did*, *What I found* or *What I noticed*, *Open questions* and *Traces* (sources). Each folder has its own README index. Links use `[[wiki-link]]` syntax, so they read best in Obsidian.
 
 ## Running the map
@@ -56,6 +56,7 @@ VS Code's Live Server also works (see Mexico entry 11 for why the page needs a f
 - **Categories:** `regulatory`, `clinical`, `advocacy`, `literature`.
 - **Enactments**, the cross-cutting lens filter: `licensed`, `legible`, `desired`, `material`, `contested`, plus `frame` for conceptual entries. An entry can carry several. Contested is not a separate life of the drug; it runs through all of them.
 - **Switzerland** uses the same model in `data/ch/`: 41 entries, 70 relations, 4 sites (Basel and Basel-Landschaft as the field site, Zurich and Solothurn as comparisons).
+- **Spain** uses the same model in `data/es/`: 42 entries, 62 relations, 3 sites (Barcelona as urban hub, Navarra or Asturias as rural site).
 - **Circulations:** `institutional`, `material`, `informational`, `scholarly`.
 - **Verification:** entries flagged `to_verify` carry a note on what still needs checking.
 
@@ -77,12 +78,14 @@ VS Code's Live Server also works (see Mexico entry 11 for why the page needs a f
 .
 ├── index.html            # Mexico map
 ├── switzerland.html      # Switzerland map
+├── spain.html            # Spain map
 ├── data/
 │   ├── entries.csv
 │   ├── relations.csv
 │   ├── sites.csv
 │   ├── d3.min.js
-│   └── ch/               # Switzerland data (same columns)
+│   ├── ch/               # Switzerland data (same columns)
+│   └── es/               # Spain data (same columns)
 └── field diary/
     ├── Mexico/           # 17 entries + README
     ├── Switzerland/      # 5 entries + README
